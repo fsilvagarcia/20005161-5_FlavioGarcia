@@ -1,0 +1,27 @@
+#painel {
+ width: 100%;
+ height: 250px;
+ margin: 0 auto;
+ background:white;
+ text-align:left;
+}
+
+#cliente {
+ float:left;
+ width: 49%;
+ height: 300px;
+ margin: 0 auto;
+ background: gray;
+ text-align: center;
+ border: 3px solid black;
+}
+
+#caixa {
+ float:right;
+ width: 49%;
+ height: 300px;
+ margin: 0 auto;
+ background: gray;
+ text-align: center;
+ border: 3px solid black;
+}
